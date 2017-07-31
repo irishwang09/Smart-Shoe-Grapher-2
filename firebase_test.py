@@ -4,7 +4,7 @@ config = {
   "authDomain": "testing-6a8f2.firebaseapp.com",
   "databaseURL": "https://testing-6a8f2.firebaseio.com",
   "storageBucket": "testing-6a8f2.appspot.com",
-  "serviceAccount": "C:/Users/Lauren/smartshoe/testing-6a8f2-firebase-adminsdk-50kup-bfa1979cae.json"
+  "serviceAccount": "C:/Users/Lauren/smartshoe/testing-6a8f2-firebase-adminsdk-50kup-7f487fa306.json"
 }
 firebase = pyrebase.initialize_app(config)
 
